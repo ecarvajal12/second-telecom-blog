@@ -1,0 +1,46 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>🧑‍🚀 ¡Saludos, Ingeniero!</h1>
+			<p style="text-align: justify;">
+				En esta oportunidad desentrañaremos los secretos de la
+				comunicación analógica: un viaje a tráves de señales, modulación
+				y aplicaciones
+			</p>
+			<p style="text-align: justify;">
+				La comunicación analógica ha estado presente desde los albores
+				de la humanidad. Se basa en la transmisión de información
+				mediante señales continuas que varían de forma gradual, como las
+				ondas sonoras o las fluctuaciones de voltaje.
+			</p>
+			<p style="text-align: justify;">
+				A diferencia de su contraparte digital, que representa la
+				información en bits discretos (0s y 1s), la comunicación
+				analógica captura la esencia del mundo real en toda su riqueza y
+				detalle.
+			</p>
+			<p style="text-align: justify;">
+				En contraste, las comunicaciones digitales se basan en la
+				conversión de información analógica, como voz o imágenes, en
+				señales digitales compuestas por bits. Esta conversión permite
+				un procesamiento eficiente y una transmisión precisa a través de
+				canales digitales. La modulación juega un papel crucial en este
+				proceso, “superponiendo” la información digital sobre una onda
+				portadora para su transporte.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
