@@ -1,8 +1,8 @@
 ---
 title: 'Modulación'
 description: 'La clave para viajar por las ondas'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder-3.jpg'
+pubDate: 'Jul 03 2024'
+heroImage: '/blog-placeholder-7.jpg'
 ---
 
 <p style="text-align: justify;">

@@ -1,8 +1,8 @@
 ---
-title: 'Desentrañando los Secretos de las Series de Fourier'
+title: 'Series de Fourier'
 description: 'Un Viaje a través de Armónicos, Espectros y Aplicaciones'
-pubDate: 'Jul 22 2022'
-heroImage: '/blog-placeholder-2.jpg'
+pubDate: 'Jul 08 2024'
+heroImage: '/blog-placeholder-9.jpg'
 ---
 
 <div style="text-align: justify;">
@@ -23,7 +23,7 @@ heroImage: '/blog-placeholder-2.jpg'
         <li><b>n</b> es el <b>índice armónico</b>, que indica el número de veces que la frecuencia fundamental se multiplica para obtener un armónico específico.</li>
     </ul>
     <h5>Interpretando los Coeficientes de Fourier</h5>
-    <p>Los coeficientes de Fourier (<b>a<sub>n</sub></b> y <b>b<sub>n</sub></b>) son números que nos revelan información crucial sobre la función original. El valor absoluto de cada coeficiente (<b>|a<sub>n</sub>|</b> o <b>|b<sub>n</sub>|</b>) representa la <b>amplitud</b> del armónico correspondiente, mientras que su argumento (atan2(b_n, a_n)) indica la <b>fase</b> de ese armónico.</p>
+    <p>Los coeficientes de Fourier (<b>a<sub>n</sub></b> y <b>b<sub>n</sub></b>) son números que nos revelan información crucial sobre la función original. El valor absoluto de cada coeficiente (<b>|a<sub>n</sub>|</b> o <b>|b<sub>n</sub>|</b>) representa la <b>amplitud</b> del armónico correspondiente, mientras que su argumento (<b>atan2(b<sub>n</sub>, a<sub>n</sub>)</b>) indica la <b>fase</b> de ese armónico.</p>
     <h5>Aplicaciones de las Series de Fourier</h5>
     <p>Las series de Fourier encuentran aplicación en diversos campos, incluyendo:</p>
     <ul>

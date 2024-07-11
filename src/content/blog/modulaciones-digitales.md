@@ -1,8 +1,8 @@
 ---
-title: 'ASK, FSK, PSK, QAM y PCM'
+title: 'Modulaciones Digitales'
 description: 'Navegando por el Mundo de las Modulaciones Digitales'
-pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder-4.jpg'
+pubDate: 'Jul 05 2024'
+heroImage: '/blog-placeholder-8.jpg'
 ---
 
 <div style="text-align: justify;">
